@@ -52,5 +52,6 @@
 
 
 ## OUTPUT:
-![Screenshot 2025-05-24 135445](https://github.com/user-attachments/assets/4e7467d5-55be-4490-9b0e-1852153282a9)
+![Screenshot 2025-05-24 140529](https://github.com/user-attachments/assets/378a3146-4265-49c7-b4fb-ee0648acde0e)
+
 
