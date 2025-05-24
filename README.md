@@ -1,3 +1,4 @@
+
 # EX 9 : IMAGE EDITING
 
 ## AIM:
@@ -51,3 +52,4 @@
 
 
 ## OUTPUT:
+![Screenshot 2025-05-24 134912](https://github.com/user-attachments/assets/09978eff-5c1d-4ce1-908c-6561b6d2e2b6)
